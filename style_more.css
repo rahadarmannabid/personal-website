@@ -1,0 +1,148 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 0;
+}
+
+
+
+
+
+.light{
+    font-size:35px;
+    font-weight:100;
+}
+
+.pink{
+    color:deeppink;
+    font-size:50px;
+
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,deeppink,deeppink
+    );
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.half{
+    widows: 45%;
+    float: left;
+    
+    padding-left:15%;
+    padding-right:5%;
+    padding-top:5%;
+
+}
+
+.half img{
+    width: 600px;
+    height: 35%;
+}
+
+
+.top{
+    background-image:url("header-bg.png");
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+
+    
+
+}
+
+.half-middle{
+    widows: 45%;
+    float:left;
+    padding-left:15%;
+    padding-right:5%;
+    padding-top:5%;
+
+}
+
+
+.half-middle img{
+    width: 600px;
+    height: 35%;
+}
+
+.middle{
+    background-image:url("biography-bg.png");
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+
+}
+
+section{
+    height:1000px;
+}
+
+#bot{
+    text-align: center;
+    color: gray;
+}
+
+.half-bottom{
+    widows: 25%;
+    float:left;
+    padding-left:5%;
+    padding-right:5%;
+    padding-top:2%;
+
+}
+
+
+.half-bottom img{
+    width: 500px;
+    height: 35%;
+}
+
+.bottom{
+    background-image:url("latest-work-bg.png");
+    background-repeat:no-repeat;
+    background-size: 100% 60%;
+
+}
+
+.foot{
+    background-image:url("footer-bg.png");
+    background-repeat:no-repeat;
+    background-size: 100% 70%;
+
+}
+
+
+.button-last{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(250, 62, 209),deeppink
+    );
+    padding: 35px 145px;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    width: 300px;
+    text-align: center;
+    
+    position: relative;
+    top: 5%;
+    left:37%;
+      
+    
+    
+    
+}
+
+#fot{
+    text-align: center;
+    color: white;
+}
+
+
+.light{
+    font-weight: 200 ;
+    font-size:20px;
+}
